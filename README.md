@@ -9,7 +9,7 @@ I'm a fresh graduate currently building a portfolio of projects to enhance my sk
 ---
 
 ## 🔗 Connect with Me
-📧 [Gmail](syeinritadevi@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/a-syeinrita-devi/)
+📧 [Gmail](mailto:syeinritadevi@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/a-syeinrita-devi/)
 
 ---
 
